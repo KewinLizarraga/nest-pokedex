@@ -1,6 +1,9 @@
 {
   "name": "pokedex",
   "version": "0.0.1",
+  "engines": {
+    "node": "18.14.2"
+  },
   "description": "",
   "author": "",
   "private": true,
